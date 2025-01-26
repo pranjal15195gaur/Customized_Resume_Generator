@@ -44,6 +44,9 @@ cd resume-generator
 source env/bin/activate  # On Windows: env\Scripts\activate
             </code></pre>
         </li>
+        <li>Install dependencies:
+            <pre><code>pip install -r requirements.txt</code></pre>
+        </li>
     </ol>
 
     <h2>Usage</h2>
@@ -66,9 +69,23 @@ source env/bin/activate  # On Windows: env\Scripts\activate
     <pre><code>resume-generator/
 │
 ├── resume_generator.py       # Main script to generate the resume
+├── requirements.txt          # Dependencies required for the project
 ├── README.md                 # Documentation
-
+└── examples/                 # Directory to store example resumes
+    └── example_resume.pdf
     </code></pre>
+
+    <h2>Requirements</h2>
+    <ul>
+        <li>Python 3.x</li>
+        <li>ReportLab library</li>
+    </ul>
+    <p>Install all dependencies using:</p>
+    <pre><code>pip install -r requirements.txt</code></pre>
+
+    <h2>Example Output</h2>
+    <img src="examples/example_resume_thumbnail.png" alt="Example Resume" style="max-width: 100%; height: auto;">
+    <p>Example resumes can be found in the <code>examples/</code> directory.</p>
 
     <h2>Contributing</h2>
     <p>Contributions are welcome! If you'd like to improve the project, please follow these steps:</p>
@@ -88,6 +105,7 @@ source env/bin/activate  # On Windows: env\Scripts\activate
     <ul>
         <li><strong>Name:</strong> Pranjal Gaur</li>
         <li><strong>Email:</strong> <a href="mailto:pranjal.gaur@iitgn.ac.in">pranjal.gaur@iitgn.ac.in</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/pranjal-gaur" target="_blank">linkedin.com/in/pranjal-gaur</a></li>
     </ul>
 </body>
 </html>
