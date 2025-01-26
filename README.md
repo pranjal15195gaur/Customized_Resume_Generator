@@ -29,11 +29,6 @@ A customizable Python-based **Resume Generator** that allows users to create pro
     source env/bin/activate  # On Windows: env\Scripts\activate
     ```
 
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 Run the script with customizable options for font size, font color, and background color:
