@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Resume Generator</title>
-</head>
-<body>
+
     <h1>Resume Generator</h1>
     <p>
         A customizable Python-based <strong>Resume Generator</strong> that allows users to create professional PDF resumes with dynamic font size, font color, and background color options. 
@@ -107,5 +100,4 @@ source env/bin/activate  # On Windows: env\Scripts\activate
         <li><strong>Email:</strong> <a href="mailto:pranjal.gaur@iitgn.ac.in">pranjal.gaur@iitgn.ac.in</a></li>
         <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/pranjal-gaur" target="_blank">linkedin.com/in/pranjal-gaur</a></li>
     </ul>
-</body>
-</html>
+
