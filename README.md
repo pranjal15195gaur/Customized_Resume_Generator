@@ -19,7 +19,7 @@ A customizable Python-based **Resume Generator** that allows users to create pro
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/resume-generator.git
+    git clone https://github.com/pranjal15195gaur/Customized_Resume_Generator.git
     cd resume-generator
     ```
 
